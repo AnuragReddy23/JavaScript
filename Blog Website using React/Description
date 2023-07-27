@@ -1,0 +1,7 @@
+A Full-Stack web application which serves as blog and allows users to engage in
+discussions through comments. 
+Used React to develop the front-end. 
+Node.js as the framework. 
+Express to develop the server. 
+MongoDB as the database to persist data.
+Firebase-auth to implement user authorization.
